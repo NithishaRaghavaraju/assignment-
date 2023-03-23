@@ -1,0 +1,61 @@
+.all{
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.top{
+width: 100%;
+height: 100px;
+background: transparent url('../assets/Group 59.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+/* font: normal normal bold 30px/37px Proxima Nova; */
+font-family: normal normal bold 30px/37px 'Montserrat', sans-serif;
+letter-spacing: 0px;
+color: #FFFFFF;
+
+opacity: 1;
+}
+.para_right{
+    margin-right: 25px;
+}
+.paragraph{
+  display: inline-block;
+  width: 48.5%;
+  vertical-align: top;
+
+}
+.eachDiv{
+    position: relative;
+    width:65%;
+    font-family: normal normal bold 30px/37px 'Montserrat', sans-serif;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 3px solid #95B1D3;
+    border-radius: 15px;
+    opacity: 1;
+    margin: 2% auto 2% auto;
+    padding: 1.5%;
+}
+.moreBtn{
+    position: absolute;
+    bottom: 6%;
+    right: 3%;
+    background: #2760A5;
+    border-radius: 36px;
+    text-align: center;
+    font: Proxima Nova;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 0.5%;
+    width: 15%;
+}
+h5{
+    color: #2760A5;
+}
+.picDiv{
+    display: flex;
+    justify-content: space-between;
+}
